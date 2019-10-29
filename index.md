@@ -16,8 +16,7 @@ University of Manitoba | Expected: June 2021
 ## TECHNICAL SKILLS
 
 | **Programming Language** | **Tools and Technologies** |
-| ------------- | ------------- |
-|     :---:      |     :---:      |
+|  :---:    | :---: |
 | Python  | Anaconda  |
 | Java  | IntelliJ IDEA  |
 | C  | VIM  |
@@ -26,6 +25,8 @@ University of Manitoba | Expected: June 2021
 | SQL  | MySQL  |
 | LC-3  | LC-3 Simulator  |
 | Markdown  | Atom  |
+
+-------------
 
 -------------------     ----------------------------
 
