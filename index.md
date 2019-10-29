@@ -47,10 +47,11 @@ University of Manitoba | Expected: June 2021
 
 - **Implemented a Java system for managing monthly parking spot reservations across several lots and parkades.** 
 
- *_Input to the program was a data file that described the parkades, and a list of the parkers that want to reserve parking spaces, and additional details.
- Outputted neatly-formatted charts for each month showing the floor plan of the parkades with the reserved parking spaces, and a list of the parkers showing their parking space reservation._*
+ *Input to the program was a data file that described the parkades, and a list of the parkers that want to reserve parking spaces, and additional details.
+ Outputted neatly-formatted charts for each month showing the floor plan of the parkades with the reserved parking spaces, and a list of the parkers showing their parking space reservation.*
  
 -------------------     ----------------------------
 
 ## References
+
 Available on request.
