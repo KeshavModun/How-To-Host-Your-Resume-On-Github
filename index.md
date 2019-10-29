@@ -13,15 +13,15 @@ University of Manitoba | Expected: June 2021
 - #### A+ Certification (CompTIA Computer Technician)
 
 ## TECHNICAL SKILLS
-| **Programming Language** | **Tools and Technologies** |
-|--------------------------|----------------------------|
-| Python | Anaconda |
-| Java | IntelliJ IDEA |
-| C | VIM |
-| C++ | CLion |
-| JavaScript | JetBrains WebStorm |
-| SQL | MySQL |
-| LC-3 | LC-3 Simulator |
+| **Programming Language** 	| **Tools and Technologies** 	|
+|--------------------------	|----------------------------	|
+| Python                   	| Anaconda                   	|
+| Java                     	| IntelliJ IDEA              	|
+| C                        	| VIM                        	|
+| C++                      	| CLion                      	|
+| JavaScript               	| JetBrains WebStorm         	|
+| SQL                      	| MySQL                      	|
+| LC-3                     	| LC-3 Simulator             	|
 
 
 ## EXPERIENCE
