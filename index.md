@@ -28,17 +28,17 @@ University of Manitoba | Expected: June 2021
 ## EXPERIENCE
 
 **January 2018 - Present**
-*_Rapid RTC (online agent)_*
+*Rapid RTC (online agent)*
 - Online Chat
 - Lead management for automotive industry in Canada/US
 
 
 **May 2017 - September 2017**
-_*Skybridge Americas (Bilingual Customer Service Representative)*_
+*Skybridge Americas (Bilingual Customer Service Representative)*
 - Receiving roadside assistance calls and dispatching services.
 
 **January 2017 - April 2017**
-*_Integrated Messaging Inc. (Bilingual Customer Service Representative)_*
+*Integrated Messaging Inc. (Bilingual Customer Service Representative)*
 - Processing driving tickets.
 
 -------------------     ----------------------------
