@@ -54,12 +54,12 @@ University of Manitoba | Expected: June 2021
 
 **October 2019**
 
-### Resume and README
+### Resume and README - https://keshavmodun.github.io/Resume/
 *Assignment for COMP 3040 - Technical Communication in Computer Science. Resume was written in Atom using Markdown language. A Jekyll theme was used and it was hosted on Github Pages. The repository on GitHub includes a README.md file which contains instructions for  “How to Host Your Resume on GitHub Pages”.*
 
 **June 2019**
 
-### Java Parking System
+### Java Parking System - https://drive.google.com/open?id=1JkM9x5oTjMPcwglXRexaLvNium5g0j1b
 *Implemented a Java system for managing monthly parking spot reservations across several lots and parkades.
 Input to the program was a data file that described the parkades, and a list of the parkers that want to reserve parking spaces, and additional details.
 Outputted neatly-formatted charts for each month showing the floor plan of the parkades with the reserved parking spaces, and a list of the parkers showing their parking space reservation.*
