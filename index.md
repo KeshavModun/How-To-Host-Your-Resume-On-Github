@@ -40,6 +40,7 @@ University of Manitoba | Expected: June 2021
 **January 2017 - April 2017**
 *_Integrated Messaging Inc. (Bilingual Customer Service Representative)_*
 - Processing driving tickets.
+
 -------------------     ----------------------------
 
 ## Projects
