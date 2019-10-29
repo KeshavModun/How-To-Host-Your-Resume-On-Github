@@ -13,16 +13,16 @@ University of Manitoba | Expected: June 2021
 - #### A+ Certification (CompTIA Computer Technician)
 -------------------     ----------------------------
 
-## TECHNICAL SKILLS  
-|**Programming Language**|**Tools and Technologies**|
+## TECHNICAL SKILLS
+| **Programming Language** | **Tools and Technologies** |
 |--------------------------|----------------------------|
-| Python | Anaconda |
-| Java | IntelliJ IDEA |
-| C | VIM |
-| C++ | CLion |
-| JavaScript | JetBrains WebStorm |
-| SQL | MySQL |
-| LC-3 | LC-3 Simulator |
+| Python                   | Anaconda                   |
+| Java                     | IntelliJ IDEA              |
+| C                        | VIM                        |
+| C++                      | CLion                      |
+| JavaScript               | JetBrains WebStorm         |
+| SQL                      | MySQL                      |
+| LC-3                     | LC-3 Simulator             |
 
 
 ## EXPERIENCE
@@ -36,11 +36,10 @@ University of Manitoba | Expected: June 2021
 **May 2017 - September 2017**
 *_Skybridge Americas (Bilingual Customer Service Representative)_*
 - Receiving roadside assistance calls and dispatching services.
-- Renewing vehicle warranty
 
 **January 2017 - April 2017**
 *_Integrated Messaging Inc. (Bilingual Customer Service Representative)_*
-- Processing payments for driving tickets.
+- Processing driving tickets.
 -------------------     ----------------------------
 
 ## Projects
