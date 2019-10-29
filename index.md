@@ -49,6 +49,7 @@ University of Manitoba | Expected: June 2021
 
  *_Input to the program was a data file that described the parkades, and a list of the parkers that want to reserve parking spaces, and additional details.
  Outputted neatly-formatted charts for each month showing the floor plan of the parkades with the reserved parking spaces, and a list of the parkers showing their parking space reservation._*
+ 
 -------------------     ----------------------------
  ## References
 
