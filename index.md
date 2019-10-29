@@ -42,7 +42,6 @@ University of Manitoba | Expected: June 2021
 - Processing driving tickets.
 
 -------------------     ----------------------------
-
 ## Projects
 - **Resume written on Markdown and formatted using a Jekyll Theme**
 
