@@ -5,7 +5,7 @@
 #### https://www.linkedin.com/in/keshavmodun
 -------------------     ----------------------------
 
-## About me
+## ABOUT ME
 Inquisitive, energetic and enthusiastic Computer Science student at the University of Manitoba. I have a strong foundation in math, programming logic and cross-platform coding. Seeking to leverage solid development skills with a focus collaboration, effective communication, dedication and creativity as a programmer.
 
 -------------------     ----------------------------
