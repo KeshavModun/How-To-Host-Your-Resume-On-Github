@@ -12,8 +12,14 @@ University of Manitoba | Expected: June 2021
 
 - #### A+ Certification (CompTIA Computer Technician)
 
-| First Header  | Second Header |
+| **Programming Language** | **Tools and Technologies** |
 | ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
