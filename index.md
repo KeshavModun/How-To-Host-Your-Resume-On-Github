@@ -17,7 +17,7 @@ University of Manitoba | Expected: June 2021
 
 | **Programming Language** | **Tools and Technologies** |
 | ------------- | ------------- |
-| Python  | Anaconda  |
+| `Python`  | Anaconda  |
 | Java  | IntelliJ IDEA  |
 | C  | VIM  |
 | C++  | CLion  |
@@ -32,22 +32,27 @@ University of Manitoba | Expected: June 2021
 
 **January 2018 - Present**
 *Rapid RTC (online agent)*
-- Online Chat
-- Lead management for automotive industry in Canada/US
+- Online Chat for car dealerships
+- sales lead management
+- Preparation of training material for new employees
 
 
-**May 2017 - September 2017**
+**May - September 2017**
 *Skybridge Americas (Bilingual Customer Service Representative)*
-- Receiving roadside assistance calls and dispatching services.
+- Receiving emergency roadside assistance phone calls and dispatching services.
+- Renewing roadside assistance warranty
 
-**January 2017 - April 2017**
+**January - April 2017**
 *Integrated Messaging Inc. (Bilingual Customer Service Representative)*
-- Processing driving tickets.
+- Processing payments for driving tickets
 
 -------------------     ----------------------------
 ## Projects
+
+**October 2019**
 - **Resume written on Markdown and formatted using a Jekyll Theme**
 
+**June 2019**
 - **Implemented a Java system for managing monthly parking spot reservations across several lots and parkades.** 
 
  *Input to the program was a data file that described the parkades, and a list of the parkers that want to reserve parking spaces, and additional details.
