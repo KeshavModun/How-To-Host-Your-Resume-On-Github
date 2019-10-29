@@ -34,7 +34,7 @@ University of Manitoba | Expected: June 2021
 
 
 **May 2017 - September 2017**
-*_Skybridge Americas (Bilingual Customer Service Representative)_*
+_*Skybridge Americas (Bilingual Customer Service Representative)*_
 - Receiving roadside assistance calls and dispatching services.
 
 **January 2017 - April 2017**
