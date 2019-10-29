@@ -3,7 +3,7 @@ Keshav Modun
 ###### 204-996-1943
 ###### modunk@myumanitoba.ca
 ###### https://github.com/KeshavModun
-###### [linkedin](https://www.linkedin.com/in/keshavmodun)
+###### https://www.linkedin.com/in/keshavmodun
 
 -------------------     ----------------------------
 ## EDUCATION
