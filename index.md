@@ -14,9 +14,9 @@ University of Manitoba | Expected: June 2021
 -------------------     ----------------------------
 
 ## TECHNICAL SKILLS  
-| **Programming Language** | **Tools and Technologies** |
+|**Programming Language**|**Tools and Technologies**|
 |--------------------------|----------------------------|
-| Python                   | Anaconda                   |
+|Python                   |Anaconda                   |
 | Java                     | IntelliJ IDEA              |
 | C                        | VIM                        |
 | C++                      | CLion                      |
