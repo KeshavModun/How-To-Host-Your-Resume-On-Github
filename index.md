@@ -17,7 +17,8 @@ University of Manitoba | Expected: June 2021
 
 | **Programming Language** | **Tools and Technologies** |
 | ------------- | ------------- |
-| `Python`  | Anaconda  |
+|     :---:      | |     :---:      |
+| Python  | Anaconda  |
 | Java  | IntelliJ IDEA  |
 | C  | VIM  |
 | C++  | CLion  |
