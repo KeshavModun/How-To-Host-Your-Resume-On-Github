@@ -12,8 +12,6 @@ University of Manitoba | Expected: June 2021
 
 - #### A+ Certification (CompTIA Computer Technician)
 
--------------------     ----------------------------
-
 ## TECHNICAL SKILLS
 | **Programming Language** | **Tools and Technologies** |
 |--------------------------|----------------------------|
