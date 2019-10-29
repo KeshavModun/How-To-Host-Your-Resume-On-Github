@@ -6,7 +6,7 @@
 -------------------     ----------------------------
 
 ## About me
-
+Inquisitive, energetic and enthusiastic Computer Science student at the University of Manitoba. I have a strong foundation in math, programming logic and cross-platform coding. Seeking to leverage solid development skills with a focus collaboration, effective communication, dedication and creativity as a programmer.
 -------------------     ----------------------------
 ## EDUCATION
 - #### Bachelor of Science - Computer Science Major (Co-op)
@@ -49,13 +49,13 @@ University of Manitoba | Expected: June 2021
 - Processing payments for driving tickets
 
 -------------------     ----------------------------
-## Projects
+## Projects in Computer Science
 
 **October 2019**
-- **Resume written on Markdown and formatted using a Jekyll Theme**
+- Resume written on Markdown and formatted using a Jekyll Theme
 
 **June 2019**
-- **Implemented a Java system for managing monthly parking spot reservations across several lots and parkades.** 
+- Implemented a Java system for managing monthly parking spot reservations across several lots and parkades.
 
  *Input to the program was a data file that described the parkades, and a list of the parkers that want to reserve parking spaces, and additional details.
  Outputted neatly-formatted charts for each month showing the floor plan of the parkades with the reserved parking spaces, and a list of the parkers showing their parking space reservation.*
