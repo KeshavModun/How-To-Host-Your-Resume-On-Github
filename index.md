@@ -51,6 +51,6 @@ University of Manitoba | Expected: June 2021
  Outputted neatly-formatted charts for each month showing the floor plan of the parkades with the reserved parking spaces, and a list of the parkers showing their parking space reservation._*
  
 -------------------     ----------------------------
- 
- ## References
- Available on request.
+
+## References
+Available on request.
