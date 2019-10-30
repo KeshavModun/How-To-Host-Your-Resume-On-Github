@@ -17,8 +17,8 @@ It will walk you through the steps on:
 _This Markdown editor allows for Cross-platform editing, i.e. Atom works across operating systems. Use it on OS X, Windows, or Linux._
 
 - Click on download.
-- Upon completion, run the setup file. 
-- Now that the installation process is done, open the editor.
+- Run the setup file once the download is completed. 
+- Open the editor.
 - It will show you a welcome guide and options to customize your editor. 
 **Here's a glimpse**
 ![ATOM EDITOR](https://github.com/KeshavModun/Resume/blob/master/IMG/Atom%20Editor.PNG)
