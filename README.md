@@ -79,3 +79,12 @@ Wasn't that too easy? Congratulations. You now have a resume, written in Markdow
 
 <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif">
 
+
+## Author
+**Keshav Modun**
+
+## FAQs
+1. Do I need to be good at HTML to understand Markdown? 
+- *No. They both are markup languages but Markdown is way simpler as it involves only a few symbols to format your text*
+2. Can I add as many private repositories as I want? 
+- *Absolutely. GitHub Free now includes unlimited private repositories. For the first time, developers can use GitHub for their private projects with up to three collaborators per repository for free.*
