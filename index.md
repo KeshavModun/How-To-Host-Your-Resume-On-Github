@@ -68,6 +68,7 @@ University of Manitoba | Expected: June 2021
 - Cashier Work
 - Good receiving
 - Updating stocks
+
 -------------------     ----------------------------
 ## Projects in Computer Science
 **October 2019**
@@ -81,6 +82,7 @@ University of Manitoba | Expected: June 2021
 Input to the program was a data file that described the parkades, and a list of the parkers that want to reserve parking spaces, and additional details.
 Outputted neatly-formatted charts for each month showing the floor plan of the parkades with the reserved parking spaces, and a list of the parkers showing their parking space reservation.*
 <https://drive.google.com/open?id=1JkM9x5oTjMPcwglXRexaLvNium5g0j1b> 
+
 -------------------     ----------------------------
 ## References
 Available on request.
