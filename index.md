@@ -34,21 +34,43 @@ University of Manitoba | Expected: June 2021
 ## EXPERIENCE
 
 **January 2018 - Present**
-*Rapid RTC (online agent)*
-- Online Chat for car dealerships
-- sales lead management
+*Rapid RTC (Bilingual online agent)*
+- Online Chats (written) for car dealerships
+- Receiving customer's sales/service/parts inquiries
+- Gather information about sales inquiries via live chats before contacting the sales team and connecting them to the customer
+- Analyzing sales leads and forwarding them to the UK Rapid RTC branch office
 - Preparation of training material for new employees
-
+- Working remotely from home with minimal supervision
 
 **May - September 2017**
 *Skybridge Americas (Bilingual Customer Service Representative)*
-- Receiving emergency roadside assistance phone calls and dispatching services.
+- Receiving emergency roadside assistance phone calls in English and French 
+- Dispatching roadside services
 - Renewing roadside assistance warranty
 
 **January - April 2017**
 *Integrated Messaging Inc. (Bilingual Customer Service Representative)*
-- Processing payments for driving tickets
+- Processing payments for speeding/parking tickets
+- Booking online appointments for customers
+- Troubleshooting application glitches over the phone
 
+**December 2015**
+*OVEC Overseas International Education (Mauritius)*
+- Working alongside with the marketing manager of the NAVITAS group(International College of Manitoba)
+- Encouraging high school graduates to join the University of Manitoba
+
+**January - December 2015**
+*Leal Communications and BMW Showroom(Mauritius)*
+- Troubleshooting computers and repairing laptops
+- Installing computer networks
+- Maintaining computer security updates
+- Customer service representative(bilingual) for IT department
+
+**July 2012 - December 2014**
+*Store Assistant. Alliance Store, Leicester*
+- Cashier Work
+- Good receiving
+- Updating stocks
 -------------------     ----------------------------
 ## Projects in Computer Science
 
