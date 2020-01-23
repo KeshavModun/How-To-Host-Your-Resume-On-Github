@@ -71,6 +71,7 @@ University of Manitoba | Expected: June 2021
 - Cashier Work
 - Good receiving
 - Updating stocks
+
 -------------------     ----------------------------
 ## Projects in Computer Science
 
