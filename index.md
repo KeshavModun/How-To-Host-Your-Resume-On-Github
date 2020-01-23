@@ -28,6 +28,7 @@ University of Manitoba | Expected: June 2021
 | SQL  | MySQL  |
 | LC-3  | LC-3 Simulator  |
 | Markdown  | Atom  |
+
 -------------------     ----------------------------
 ## EXPERIENCE
 **January 2018 - Present**
