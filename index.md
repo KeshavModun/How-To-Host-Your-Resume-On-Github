@@ -72,6 +72,8 @@ University of Manitoba | Expected: June 2021
 - Good receiving
 - Updating stocks
 
+
+
 -------------------     ----------------------------
 ## Projects in Computer Science
 
