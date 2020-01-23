@@ -72,15 +72,10 @@ University of Manitoba | Expected: June 2021
 - Good receiving
 - Updating stocks
 
-
-
-
-
 -------------------     ----------------------------
+
 ## Projects in Computer Science
-
 **October 2019**
-
 ### Resume and README
 *Assignment for COMP 3040 - Technical Communication in Computer Science. Resume was written in Atom using Markdown language. A Jekyll theme was used and it was hosted on Github Pages. The repository on GitHub includes a README.md file which contains instructions for  “How to Host Your Resume on GitHub Pages”.*
 
